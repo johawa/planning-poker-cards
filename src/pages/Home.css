@@ -1,0 +1,16 @@
+:root {
+    --angle: 0deg;
+    --card-deck-rotation: 0deg;
+    --card-animation-duration: 0.6s;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.action-sheet-button {
+    --max-height: 100%;
+}
